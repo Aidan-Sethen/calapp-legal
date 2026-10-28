@@ -51,7 +51,7 @@ We don't use your data for advertising, we don't sell or rent it, and we don't s
 
 ## Data on your phone
 
-The app keeps a copy of your logs on your phone so it works offline, and stores your login session so you stay signed in. Progress photos you take or add are saved only on your phone, in the app's own storage; they are never uploaded, synced or seen by us, and deleting the app deletes them. If you allow it on iPhone, today's step count is read from the phone to show on the Today screen; it isn't stored or uploaded. Signing out leaves the copy of your logs on the phone; deleting your account removes it.
+The app keeps a copy of your logs on your phone so it works offline, and stores your login session so you stay signed in. Progress photos you take or add are saved only on your phone, in the app's own storage; they are never uploaded, synced or seen by us, and deleting the app deletes them. If you connect Apple Health (iPhone) or Health Connect (Android) in Settings, Plate Gains reads today's step count from it to show on the Today screen, and saves the workouts and weigh-ins you log into it. That data stays in Apple Health or Health Connect on your phone, under their own privacy controls: we don't upload your steps, and you can disconnect any time in Settings or in the Health app. Health data is never used for advertising or shared with advertisers. Signing out leaves the copy of your logs on the phone; deleting your account removes it.
 
 ## How long we keep it
 
