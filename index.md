@@ -1,6 +1,6 @@
 # CalApp
 
-A fitness and nutrition app by Aidan R Sethen, British Columbia, Canada.
+A fitness and nutrition app by Aidan R Sethen, with Austin J Sethen as co-developer, British Columbia, Canada.
 
 - [Privacy policy](privacy)
 - [Terms of service](terms)

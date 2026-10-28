@@ -3,7 +3,7 @@
 
 Effective date: October 28, 2026
 
-CalApp is a fitness and nutrition app made by Aidan R Sethen, an independent developer in British Columbia, Canada ("we", "us"). This policy explains what the app collects, why, who else handles it, and the choices you have. If you have a question, email a2sethen@gmail.com.
+CalApp is a fitness and nutrition app made by Aidan R Sethen, with Austin J Sethen as co-developer, independent developers in British Columbia, Canada ("we", "us"). This policy explains what the app collects, why, who else handles it, and the choices you have. If you have a question, email a2sethen@gmail.com.
 
 ## The short version
 
@@ -84,4 +84,4 @@ If we change this policy we'll update the effective date above, and for signific
 
 ## Contact
 
-Aidan R Sethen, British Columbia, Canada. Email: a2sethen@gmail.com.
+Aidan R Sethen and Austin J Sethen (co-developer), British Columbia, Canada. Email: a2sethen@gmail.com.
