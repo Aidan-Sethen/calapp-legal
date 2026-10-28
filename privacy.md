@@ -51,7 +51,7 @@ We don't use your data for advertising, we don't sell or rent it, and we don't s
 
 ## Data on your phone
 
-The app keeps a copy of your logs on your phone so it works offline, and stores your login session so you stay signed in. Signing out leaves the copy of your logs on the phone; deleting your account removes it.
+The app keeps a copy of your logs on your phone so it works offline, and stores your login session so you stay signed in. Progress photos you take or add are saved only on your phone, in the app's own storage; they are never uploaded, synced or seen by us, and deleting the app deletes them. Signing out leaves the copy of your logs on the phone; deleting your account removes it.
 
 ## How long we keep it
 
