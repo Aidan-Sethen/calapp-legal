@@ -1,21 +1,21 @@
-# CalApp Privacy Policy
+# Plate Gains Privacy Policy
 
 
 Effective date: October 28, 2026
 
-CalApp is a fitness and nutrition app made by Aidan R Sethen, with Austin J Sethen as co-developer, independent developers in British Columbia, Canada ("we", "us"). This policy explains what the app collects, why, who else handles it, and the choices you have. If you have a question, email a2sethen@gmail.com.
+Plate Gains is a fitness and nutrition app made by Aidan R Sethen, with Austin J Sethen as co-developer, independent developers in British Columbia, Canada ("we", "us"). This policy explains what the app collects, why, who else handles it, and the choices you have. If you have a question, email a2sethen@gmail.com.
 
 ## The short version
 
-- CalApp collects health and fitness information so it can build your plan and keep your logs.
+- Plate Gains collects health and fitness information so it can build your plan and keep your logs.
 - The free version shows non-personalised ads from Google AdMob; Premium removes them. No health, food, weight or workout data ever goes to the ad provider.
 - We don't sell your data, we don't track you across other companies' apps, and the app has no analytics.
 - A few services help run the app: Supabase stores your account and data, Anthropic's Claude AI reads photos and writes meal plans when you ask it to, Open Food Facts answers food searches, RevenueCat keeps track of Premium subscriptions, and Google AdMob shows ads in the free version.
 - You can delete your account and all your data at any time in Settings.
 
-## Who can use CalApp
+## Who can use Plate Gains
 
-CalApp is for adults 18 and older. We ask for your date of birth before an account is created and don't create one for anyone younger. If you believe someone under 18 has an account, contact us and we will delete it.
+Plate Gains is for adults 18 and older. We ask for your date of birth before an account is created and don't create one for anyone younger. If you believe someone under 18 has an account, contact us and we will delete it.
 
 ## What we collect
 
@@ -25,7 +25,7 @@ CalApp is for adults 18 and older. We ask for your date of birth before an accou
 - What you log and create: food diary entries, your own foods and recipes, workouts and the sets you log, your own exercises and workout splits, bodyweight entries, changes you make to your training plan, and your meal plans.
 - AI usage records: each time you use an AI feature we record what kind it was, when, and how large the request was, so we can apply daily limits and track costs. We don't keep the photo or the AI's reply in these records.
 - Subscription: whether you have Premium, which plan, and when it started and renews (from RevenueCat). We don't see or store payment details.
-- Photos: nutrition-label and meal photos are sent to be read and are not stored by CalApp. The camera is only used when you choose to scan a barcode or take one of these photos.
+- Photos: nutrition-label and meal photos are sent to be read and are not stored by Plate Gains. The camera is only used when you choose to scan a barcode or take one of these photos.
 
 Much of this is health information. We treat all of it as sensitive. We don't collect your location, contacts or advertising identifiers. In the free version, Google's ad service collects some device information itself, as described below.
 
@@ -44,7 +44,7 @@ We don't use your data for advertising, we don't sell or rent it, and we don't s
 - Anthropic (Claude AI) receives data only when you use these features: a nutrition-label photo; a meal photo; or a meal plan request, which sends your daily calorie and macro targets, diet type, allergies, meals per day, foods you have on hand and foods to leave out. It does not receive your name, email address, date of birth or weight. These requests go through our server, so Anthropic doesn't see your email or your phone's internet address. Anthropic is based in the United States and handles this data under its commercial terms and privacy policy.
 - Open Food Facts, a non-profit food database based in France, receives the words you search for and the barcodes you scan, sent directly from your phone. Like any website, it can see your phone's internet (IP) address. No account information is sent.
 - RevenueCat (subscription management, based in the United States) receives your account's ID number (not your email or name), your purchase history from the App Store or Google Play, and basic device information such as the app version and country, so it can tell the app whether you have Premium. It doesn't receive your health or fitness data.
-- Google AdMob (advertising, Google LLC, based in the United States) shows banner ads in the free version; Premium accounts see no ads and load no ad requests. Every ad request asks for non-personalised ads only, so the ads aren't based on your interests or your activity in other apps. To serve and measure ads and prevent fraud, Google receives information about your device and the app (such as the device model, operating system, app version and language), your phone's internet (IP) address and the approximate location it implies, and how you interact with the ads (for example whether one was shown or tapped). It does not receive your name, email address, or any health, food, weight or workout data. On Android, Google's ad software can read your phone's advertising ID, for example to limit how often an ad is repeated and to detect fraud; we don't use it, and it isn't used to personalise ads in CalApp. We never ask iPhone users for permission to track them. If you're in the European Economic Area or the United Kingdom, Google's consent form asks for your choice before any ad is requested, and ads load only if your choice allows. Google handles this data under its own privacy policy (policies.google.com/privacy); see how Google uses data from apps that use its services at policies.google.com/technologies/partner-sites.
+- Google AdMob (advertising, Google LLC, based in the United States) shows banner ads in the free version; Premium accounts see no ads and load no ad requests. Every ad request asks for non-personalised ads only, so the ads aren't based on your interests or your activity in other apps. To serve and measure ads and prevent fraud, Google receives information about your device and the app (such as the device model, operating system, app version and language), your phone's internet (IP) address and the approximate location it implies, and how you interact with the ads (for example whether one was shown or tapped). It does not receive your name, email address, or any health, food, weight or workout data. On Android, Google's ad software can read your phone's advertising ID, for example to limit how often an ad is repeated and to detect fraud; we don't use it, and it isn't used to personalise ads in Plate Gains. We never ask iPhone users for permission to track them. If you're in the European Economic Area or the United Kingdom, Google's consent form asks for your choice before any ad is requested, and ads load only if your choice allows. Google handles this data under its own privacy policy (policies.google.com/privacy); see how Google uses data from apps that use its services at policies.google.com/technologies/partner-sites.
 - Sentry (crash reporting, Functional Software Inc., based in the United States) receives a report only if you turn on "Send crash reports" in Settings, which is off until you do. A report holds the error, where in the app it happened, and basic device information (model, operating system, app version). It doesn't include your name, email, account ID, or any health, food, weight or workout data, and we don't send it the app's network requests, logs or screenshots. Turning the switch off stops reports from that phone.
 - Apple and Google distribute the app and handle Premium payments under their own terms and privacy policies. We never see your payment card details.
 - We may disclose information if the law requires it, for example in response to a valid court order.

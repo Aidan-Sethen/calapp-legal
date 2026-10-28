@@ -1,4 +1,4 @@
-# CalApp
+# Plate Gains
 
 A fitness and nutrition app by Aidan R Sethen, with Austin J Sethen as co-developer, British Columbia, Canada.
 

@@ -1,10 +1,10 @@
-# Delete your CalApp account
+# Delete your Plate Gains account
 
-You can delete your CalApp account and everything in it at any time.
+You can delete your Plate Gains account and everything in it at any time.
 
 ## In the app
 
-Open CalApp, go to **Settings** (the gear on Today), and tap **Delete account**, then confirm.
+Open Plate Gains, go to **Settings** (the gear on Today), and tap **Delete account**, then confirm.
 
 ## Without the app
 
